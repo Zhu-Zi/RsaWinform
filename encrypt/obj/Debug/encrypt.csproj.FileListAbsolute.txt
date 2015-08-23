@@ -1,0 +1,9 @@
+E:\程序库\encrypt\encrypt\bin\Debug\encrypt.exe.config
+E:\程序库\encrypt\encrypt\bin\Debug\encrypt.exe
+E:\程序库\encrypt\encrypt\bin\Debug\encrypt.pdb
+E:\程序库\encrypt\encrypt\obj\Debug\encrypt.csprojResolveAssemblyReference.cache
+E:\程序库\encrypt\encrypt\obj\Debug\encrypt.Form1.resources
+E:\程序库\encrypt\encrypt\obj\Debug\encrypt.Properties.Resources.resources
+E:\程序库\encrypt\encrypt\obj\Debug\encrypt.csproj.GenerateResource.Cache
+E:\程序库\encrypt\encrypt\obj\Debug\encrypt.exe
+E:\程序库\encrypt\encrypt\obj\Debug\encrypt.pdb
